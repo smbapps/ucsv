@@ -14,7 +14,7 @@ import sys
 name = 'ucsv'
 package = 'ucsv'
 description = 'Unicode-aware replacement for Python-2.x CSV module'
-url = 'https://github.com/pagepart/uscv'
+url = 'https://github.com/pagepart/ucsv'
 author = 'PagePart Team'
 author_email = 'opensource@pagepart.com'
 license = 'MIT'
